@@ -1,7 +1,7 @@
 import Home from "./pages/home/home"
-import ChaletIcon from '@material-ui/icons';
+import {Person} from '@material-ui/icons';
 function App(){
-  return <ChaletIcon/>
+  return <Home/>
 }
 
 export default App;
