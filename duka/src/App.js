@@ -1,15 +1,7 @@
-import './App.css';
-
-const App = () => {
-const name = 'Duka';
-const someone = 'someone';
-const isnameShowing = true;
-  return (
-    <div className="App">
-      <h1>Hello,{isnameShowing ? name : someone}</h1>
-      
-    </div>
-  );
+import Home from "./pages/home/home"
+import ChaletIcon from '@material-ui/icons';
+function App(){
+  return <ChaletIcon/>
 }
 
 export default App;
