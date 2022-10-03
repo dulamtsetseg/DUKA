@@ -5,5 +5,21 @@
 
 .sidebarWrapper{
     padding: 20px;
-    background-color: blueviolet;
+}
+
+.sidebarList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ 
+.sidebarListItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.sideIcon{
+    margin-right: 15px;
+
 }
