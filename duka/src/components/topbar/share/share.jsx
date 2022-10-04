@@ -15,7 +15,7 @@ export default function Share() {
             <div className="shareBottom"></div>
                <div className="shareOptions">
                 <div className="shareOption">
-                    <PermMedia className="shreIcon"/>
+                    <PermMedia className="shareIcon"/>
                     <span className="shareOptionText">Photo or Video</span>
                 </div>
                </div>
