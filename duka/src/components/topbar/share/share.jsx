@@ -13,18 +13,12 @@ export default function Share() {
             </div>
             <hr className="shareHr"/>
             <div className="shareBottom"></div>
-               <div className="
-               
-               ">
-                <div className="shareOption">
-                    <PermMedia className="shareIcon"/>
+               <div className="shareTop ">
                <div className="shareOption">
                     <PermMedia htmlColor="tomato" className="shareIcon"/>
                     <span className="shareOptionText">Photo or Video</span>
                 </div>
                 <div className="shareOption">
-                    <PermMedia className="shareIcon"/>
-                    <span className="shareOptionText">Photo or Video</span>
                     < ZoomIn htmlColor="blue" className="shareIcon"/>
                     <span className="shareOptionText">Tag</span>
                 </div>
