@@ -12,7 +12,7 @@ export default function Share() {
             />
             </div>
             <hr className="shareHr"/>
-            <div className="shareBottom"></div>
+            <div className="shareBottom">
                <div className="shareTop ">
                <div className="shareOption">
                     <PermMedia htmlColor="tomato" className="shareIcon"/>
@@ -30,8 +30,9 @@ export default function Share() {
                     <EmojiEmotions htmlColor="goldenrod" className="shareIcon"/>
                     <span className="shareOptionText">Feeling</span>
                 </div>
+                <button className="shareButton">Share</button>
                </div>
-               <button className="shareButton">Share</button>
+        </div>
         </div>
     </div>
   )
