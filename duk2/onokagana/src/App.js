@@ -6,10 +6,10 @@ function App() {
     console.log(searchData);
   }
   return (
-    <div className=" ">
+    <div className="Container">
       <Search onSearchChange={handleOnSearchChange}/>
     </div>
   );
 }
-  
+
 export default App;
