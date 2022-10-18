@@ -18,32 +18,32 @@ function Support() {
              
             <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
                 <div className='bg-white rounded-xl shadow-2xl'>
-                    <div className='p-8'>
+                    <div className='p-8  max-h-80 h-80'>
                         <PhoneIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]'/>
                         <h3 className='font-bold text-2xl my-6'>幸福</h3>
-                        <p className='text-gray-600 text-xl'>Hello my name is Ka Du hope you have a great day 幸福とは、健康で、幸せで、平和で、人生に満足しているという長期的な感覚です。これは、私たちが常に求めているものです。私たちはそれを少し味わったとき、それが永遠に続くことを望んでいます.</p>
+                        <p className='text-gray-600 text-xl'>a幸福とは、健康で、幸せで、平和で、人生に満足しているという長期的な感覚です。これは、私たちが常に求めているものです。私たちはそれを少し味わったとき、それが永遠に続くことを望んでいます.</p>
                     </div>
-                    <div className='bg-slate-100 pl-8 py-4'>   
-                        <p className='flex items-center text-indigo-600'>Contant us <ArrowSmRightIcon className='w-5 ml-2'/> </p>
+                    <div className='bg-slate-100 pl-8 py-4 mt-7'>   
+                        <p className='flex items-center text-indigo-600'>Contact us <ArrowSmRightIcon className='w-5 ml-2'/> </p>
                     </div>
                 </div>
                 <div className='bg-white rounded-xl shadow-2xl'>
-                    <div className='p-8'>
+                    <div className='p-8   max-h-80 h-80'>
                         <SupportIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]'/>
                         <h3 className='font-bold text-2xl my-6'>お金</h3>
-                        <p className='text-gray-600 text-xl'>私たちの惑星では、純粋に個別に、または組み合わせて発生します。世界では、この金属は金の20倍、銅のはるかに少ないです。純銀は光沢のある白い金属で、非常に柔らかく再現性が高く、金に次ぐものです。すべての金属よりも電熱をよく伝導します。</p>
+                        <p className='text-gray-600 text-xl '>が高く、金に次ぐものです。すべての金属よりも電熱をよく伝導します。</p>
                     </div>
-                    <div className='bg-slate-100 pl-8 py-4'>   
+                    <div className='bg-slate-100 pl-8 py-4 mt-7' >   
                         <p className='flex items-center text-indigo-600'>Contant us <ArrowSmRightIcon className='w-5 ml-2'/> </p>
                     </div>
                 </div>
                 <div className='bg-white rounded-xl shadow-2xl'>
-                    <div className='p-8'>
+                    <div className='p-8 max-h-80 h-80'>
                         <ChipIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]'/>
                         <h3 className='font-bold text-2xl my-6'>お金</h3>
                         <p className='text-gray-600 text-xl'>私たちの惑星では、純粋に個別に、または組み合わせて発生します。世界では、この金属は金の20倍、銅のはるかに少ないです。純銀は光沢のある白い金属で、非常に柔らかく再現性が高く、金に次ぐものです。すべての金属よりも電熱をよく伝導します</p>
                     </div>
-                    <div className='bg-slate-100 pl-8 py-4'>
+                    <div className='bg-slate-100 pl-8 py-4  mt-7'>
                         <p className='flex items-center text-indigo-600'>Contact us<ArrowSmRightIcon className='w-5 ml-2'/></p>
                     </div>
                 </div>
