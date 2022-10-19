@@ -2,6 +2,8 @@ import Navbar from './components/Navbar'
 import Hero from './components/hero'
 import About from './components/About';
 import Support from './components/Support';
+import AllInOne from './components/AllInOne';
+import Pricing from './components/Pricing';
 
 function App() {
    return (
@@ -10,6 +12,8 @@ function App() {
       <Hero />
       <About/>
       <Support/>
+      <AllInOne/>
+      <Pricing />
     </>
   );
 }
