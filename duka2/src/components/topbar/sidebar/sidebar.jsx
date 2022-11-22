@@ -1,5 +1,5 @@
 import "./sidebar.css"
-import {RssFeed, Chat,Videocam, Group, Bookmark, ContactSupport, Work, Event, GolfCourse} from "@material-ui/icons"
+import {RssFeed, Chat,Videocam, Group, Bookmark, ContactSupport, Work, Event, GolfCourse} from "@mui/icons-material"
 export default function sidebar() {
   return (
     <div className="sidebar">

@@ -1,5 +1,5 @@
 import "./share.css"
-import {PermMedia,ZoomIn,Room, EmojiEmotions} from "@material-ui/icons"
+import {PermMedia,ZoomIn,Room, EmojiEmotions} from "@mui/icons-material"
 export default function Share() {
   return (
     <div className="share">

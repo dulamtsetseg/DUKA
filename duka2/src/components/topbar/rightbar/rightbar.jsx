@@ -1,4 +1,4 @@
-import { Cake } from "@material-ui/icons"
+import { Cake } from "@mui/icons-material"
 
 import "./rightbar.css"
 
