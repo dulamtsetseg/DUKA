@@ -2,6 +2,7 @@ import "./topbar.css"
 import { Search, Person, Chat, Notifications  } from "@mui/icons-material"
 export default function Topbar() {
   return (
+    <>
     <div className="topbarContainer">
       <div className="topbarLeft">
         <span className="logo">__dkk_social</span>
@@ -34,5 +35,6 @@ export default function Topbar() {
         <img src="/assets/1.jpeg" alt="" className="topbarImg" />
       </div>
       </div>
+      </>
   )     
 }
